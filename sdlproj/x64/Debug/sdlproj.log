@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\user\source\repos\sdlproj\sdlproj\TileComponent.h(23,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\sdlproj\sdlproj\TileComponent.h(24,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\sdlproj\sdlproj\TileComponent.h(36,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\sdlproj\sdlproj\TileComponent.h(37,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\sdlproj\sdlproj\UILabel.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\sdlproj\sdlproj\Game.cpp(119,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\sdlproj\sdlproj\Game.cpp(120,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  sdlproj.vcxproj -> C:\Users\user\source\repos\sdlproj\x64\Debug\sdlproj.exe
